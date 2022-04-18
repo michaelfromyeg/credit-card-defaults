@@ -4,4 +4,4 @@
 
 # USAGE: `sh install.sh`
 
-python3 -m pip install matplotlib pandas sklearn numpy
+python3 -m pip install matplotlib pandas sklearn numpy xgboost seaborn lightgbm pandas_profiling eli5 shap
